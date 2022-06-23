@@ -1,0 +1,2 @@
+# Football-Hackathon
+Today, data garnered from live tracking and eventing offers a deep insight into the individual players as well as overall team performance across various different aspects. The information contained in such datasets ranges from physical and kinematic variables right up to complex game-related technical and tactical metrics. While we have access to such rich and precise datasets, we are yet to effectively use these to identify the key actions that make outstanding the performance of players in the whole spectrum of roles and positions.
